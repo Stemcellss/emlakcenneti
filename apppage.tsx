@@ -1,5 +1,0 @@
-emlakcenneti/
-├── app/
-│   └── page.tsx
-├── package.json
-└── tailwind.config.ts
