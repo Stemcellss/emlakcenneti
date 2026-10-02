@@ -1,5 +1,3 @@
-import './globals.css'
-
 export const metadata = {
   title: 'EmlakCenneti.com - Yapay Zeka Destekli Emlak Platformu',
   description: 'Yepyeni nesil emlak arama ve ilan platformu',
